@@ -3,6 +3,9 @@
         width: 75px;
         height: auto;
         padding: 3px;
+        position: fixed;
+        left: 0;
+        bottom: 0;
     }
 </style>
 <div class="smi-conteudo">
